@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+body, h1 {
+    margin: 0;
+}
+
+body {
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
